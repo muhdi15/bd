@@ -14,6 +14,4 @@ db.Mahasiswa.insertMany([
 
 db.Mahasiswa.find();
 
-// db.Mahasiswa.deleteMany({Kelas:"A"});
 
-// db.Mahasiswa.find();

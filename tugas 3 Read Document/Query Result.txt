@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+      "$oid": "683db10ec5b49ba220ce1a03"
+    },
+    "nama": "Laptop",
+    "jumlah": 10,
+    "harga": 15000000
+  },
+  {
+    "_id": {
+      "$oid": "683db10ec5b49ba220ce1a04"
+    },
+    "nama": "Printer",
+    "jumlah": 5,
+    "harga": 3000000
+  },
+  {
+    "_id": {
+      "$oid": "683db2a3e3ba82553dd92584"
+    },
+    "nama": "Kursi",
+    "jumlah": 10,
+    "harga": 50000,
+    "kategori": "mebel"
+  },
+  {
+    "_id": {
+      "$oid": "683db2a3e3ba82553dd92585"
+    },
+    "nama": "Meja",
+    "jumlah": 5,
+    "harga": 150000,
+    "kategori": "mebel"
+  },
+  {
+    "_id": {
+      "$oid": "683db2b93e05eb476762f993"
+    },
+    "nama": "Kursi",
+    "jumlah": 10,
+    "harga": 50000,
+    "kategori": "mebel"
+  },
+  {
+    "_id": {
+      "$oid": "683db2b93e05eb476762f994"
+    },
+    "nama": "Meja",
+    "jumlah": 5,
+    "harga": 150000,
+    "kategori": "mebel"
+  },
+  {
+    "_id": {
+      "$oid": "683db2fcb25fa4553244801c"
+    },
+    "nama": "Kursi",
+    "jumlah": 10,
+    "harga": 50000,
+    "kategori": "mebel"
+  },
+  {
+    "_id": {
+      "$oid": "683db2fcb25fa4553244801d"
+    },
+    "nama": "Meja",
+    "jumlah": 5,
+    "harga": 150000,
+    "kategori": "mebel"
+  }
+]

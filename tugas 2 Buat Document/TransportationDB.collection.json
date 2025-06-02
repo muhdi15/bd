@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "683da9c3a5149cfc4f52fbfb"
+  },
+  "nama": "Bus",
+  "jumlahRoda": 6,
+  "kapasitasPenumpang": 50,
+  "jenisBahanBakar": "Solar",
+  "tahunProduksi": 2015
+},
+{
+  "_id": {
+    "$oid": "683da9c3a5149cfc4f52fbfc"
+  },
+  "nama": "Mobil",
+  "jumlahRoda": 4,
+  "kapasitasPenumpang": 5,
+  "jenisBahanBakar": "Bensin",
+  "tahunProduksi": 2020
+},
+{
+  "_id": {
+    "$oid": "683da9c3a5149cfc4f52fbfd"
+  },
+  "nama": "Sepeda Motor",
+  "jumlahRoda": 2,
+  "kapasitasPenumpang": 2,
+  "jenisBahanBakar": "Bensin",
+  "tahunProduksi": 2018
+},
+{
+  "_id": {
+    "$oid": "683da9c3a5149cfc4f52fbfe"
+  },
+  "nama": "Truk",
+  "jumlahRoda": 10,
+  "kapasitasPenumpang": 3,
+  "jenisBahanBakar": "Solar",
+  "tahunProduksi": 2017
+},
+{
+  "_id": {
+    "$oid": "683daa2ea9929ceaaa217ca9"
+  },
+  "nama": "Kendaraan",
+  "jumlahRoda": 0,
+  "kapasitasPenumpang": 0,
+  "jenisBahanBakar": "Tidak Diketahui",
+  "tahunProduksi": 0
+},
+{
+  "_id": {
+    "$oid": "683daa2ea9929ceaaa217caa"
+  },
+  "nama": "Bus",
+  "jumlahRoda": 6,
+  "kapasitasPenumpang": 50,
+  "jenisBahanBakar": "Solar",
+  "tahunProduksi": 2015
+},
+{
+  "_id": {
+    "$oid": "683daa2ea9929ceaaa217cab"
+  },
+  "nama": "Mobil",
+  "jumlahRoda": 4,
+  "kapasitasPenumpang": 5,
+  "jenisBahanBakar": "Bensin",
+  "tahunProduksi": 2020
+},
+{
+  "_id": {
+    "$oid": "683daa2ea9929ceaaa217cac"
+  },
+  "nama": "Sepeda Motor",
+  "jumlahRoda": 2,
+  "kapasitasPenumpang": 2,
+  "jenisBahanBakar": "Bensin",
+  "tahunProduksi": 2018
+},
+{
+  "_id": {
+    "$oid": "683daa2ea9929ceaaa217cad"
+  },
+  "nama": "Truk",
+  "jumlahRoda": 10,
+  "kapasitasPenumpang": 3,
+  "jenisBahanBakar": "Solar",
+  "tahunProduksi": 2017
+}]

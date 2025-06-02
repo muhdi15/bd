@@ -1,0 +1,26 @@
+[
+  {
+    "_id": {
+      "$oid": "683dbba1b4389194dfb9fef7"
+    },
+    "nama": "Laptop",
+    "jumlah": 8,
+    "harga": 15000000,
+    "tanggal_pembelian": {
+      "$date": "2023-01-15T00:00:00Z"
+    },
+    "kondisi": "Sangat Baik"
+  },
+  {
+    "_id": {
+      "$oid": "683dbbc6995d90adbb80c197"
+    },
+    "nama": "Laptop",
+    "jumlah": 10,
+    "harga": 15000000,
+    "tanggal_pembelian": {
+      "$date": "2023-01-15T00:00:00Z"
+    },
+    "kondisi": "Baik"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": {
+      "$oid": "683ee471adcd98fe16b4771f"
+    },
+    "nama": "Meja",
+    "jumlah": 200,
+    "harga": 15000
+  },
+  {
+    "_id": {
+      "$oid": "683ee5267e52ede3fc64669a"
+    },
+    "nama": "Meja",
+    "jumlah": 200,
+    "harga": 15000
+  },
+  {
+    "_id": {
+      "$oid": "683ee5267e52ede3fc64669b"
+    },
+    "nama": "Gorden",
+    "jumlah": 200,
+    "harga": 15000
+  },
+  {
+    "_id": {
+      "$oid": "683ee5267e52ede3fc64669c"
+    },
+    "nama": "Jendela",
+    "jumlah": 200,
+    "harga": 15000
+  },
+  {
+    "_id": {
+      "$oid": "683ee5267e52ede3fc64669d"
+    },
+    "nama": "Pintu",
+    "jumlah": 200,
+    "harga": 15000
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0c"
+    },
+    "nama": "Proyektor Epson",
+    "kategori": "Elektronik",
+    "stok": 3,
+    "harga": 4200000,
+    "kondisi": "Rusak"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0e"
+    },
+    "nama": "Printer Canon",
+    "kategori": "Elektronik",
+    "stok": 4,
+    "harga": 1200000,
+    "kondisi": "Cukup"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec10"
+    },
+    "nama": "AC Panasonic",
+    "kategori": "Elektronik",
+    "stok": 2,
+    "harga": 5000000,
+    "kondisi": "Baik"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec09"
+    },
+    "nama": "Kursi Kayu",
+    "kategori": "Furniture",
+    "stok": 12,
+    "harga": 150000,
+    "kondisi": "Baik"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0a"
+    },
+    "nama": "Meja Belajar",
+    "kategori": "Furniture",
+    "stok": 8,
+    "harga": 350000,
+    "kondisi": "Cukup"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0b"
+    },
+    "nama": "Laptop Asus",
+    "kategori": "Elektronik",
+    "stok": 5,
+    "harga": 7500000,
+    "kondisi": "Baik"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0d"
+    },
+    "nama": "Lemari Arsip",
+    "kategori": "Furniture",
+    "stok": 6,
+    "harga": 850000,
+    "kondisi": "Baik"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0e"
+    },
+    "nama": "Printer Canon",
+    "kategori": "Elektronik",
+    "stok": 4,
+    "harga": 1200000,
+    "kondisi": "Cukup"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec0f"
+    },
+    "nama": "Whiteboard",
+    "kategori": "Alat Tulis",
+    "stok": 10,
+    "harga": 400000,
+    "kondisi": "Baik"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec10"
+    },
+    "nama": "AC Panasonic",
+    "kategori": "Elektronik",
+    "stok": 2,
+    "harga": 5000000,
+    "kondisi": "Baik"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec11"
+    },
+    "nama": "Kabel HDMI",
+    "kategori": "Aksesoris",
+    "stok": 25,
+    "harga": 50000,
+    "kondisi": "Baik"
+  },
+  {
+    "_id": {
+      "$oid": "68442d27b4166f2e676dec12"
+    },
+    "nama": "Mouse Wireless",
+    "kategori": "Aksesoris",
+    "stok": 15,
+    "harga": 120000,
+    "kondisi": "Baik"
+  }
+]

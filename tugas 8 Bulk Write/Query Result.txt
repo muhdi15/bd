@@ -1,0 +1,14 @@
+{
+  "acknowledged": true,
+  "insertedCount": 1,
+  "insertedIds": {
+    "0": {
+      "$oid": "684821a378112d3aea00811d"
+    }
+  },
+  "matchedCount": 1,
+  "modifiedCount": 1,
+  "deletedCount": 1,
+  "upsertedCount": 0,
+  "upsertedIds": {}
+}

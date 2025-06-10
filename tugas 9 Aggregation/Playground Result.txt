@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "Furniture",
+    "totalStok": 31,
+    "jumlahBarang": 3,
+    "nilaiAsetKategori": 10050000
+  },
+  {
+    "_id": "Aksesoris",
+    "totalStok": 40,
+    "jumlahBarang": 2,
+    "nilaiAsetKategori": 3050000
+  },
+  {
+    "_id": "Elektronik",
+    "totalStok": 7,
+    "jumlahBarang": 2,
+    "nilaiAsetKategori": 47500000
+  },
+  {
+    "_id": "Alat Tulis",
+    "totalStok": 10,
+    "jumlahBarang": 1,
+    "nilaiAsetKategori": 4000000
+  }
+]

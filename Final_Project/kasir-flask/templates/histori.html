@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block title %}Riwayat Transaksi | Sistem Kasir{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">Riwayat Transaksi</h2>
+
+<div class="card shadow-sm border-0">
+  <div class="card-body p-0">
+    <div class="table-responsive">
+      <table class="table table-striped table-hover mb-0">
+        <thead class="table-light">
+          <tr>
+            <th>No</th>
+            <th>Tanggal</th>
+            <th>Nama Barang</th>
+            <th>Jumlah</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for tx in transaksi %}
+          <tr>
+            <td>{{ loop.index }}</td>
+            <td>{{ tx.tanggal.strftime('%d-%m-%Y %H:%M') }}</td>
+            <td>{{ tx.nama_barang }}</td>
+            <td>{{ tx.jumlah }}</td>
+            <td>Rp{{ "{:,.0f}".format(tx.total) }}</td>
+          </tr>
+          {% else %}
+          <tr>
+            <td colspan="5" class="text-center text-muted">Belum ada transaksi.</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}

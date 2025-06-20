@@ -1,0 +1,20 @@
+test> db.kv_store.insertMany([
+...   { key: "user:1", value: "Derry Humington" },
+...   { key: "user:2", value: "Sarah Amelia" },
+...   { key: "user:3", value: "Rizal Maulana" },
+...   { key: "user:4", value: "Intan Perma
+ta" },
+...   { key: "user:5", value: "Rudi Hartono" }
+... ])
+
+... {
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6854efdbf68e3871c36c4bd0'),
+    '1': ObjectId('6854efdbf68e3871c36c4bd1'),
+    '2': ObjectId('6854efdbf68e3871c36c4bd2'),
+    '3': ObjectId('6854efdbf68e3871c36c4bd3'),
+    '4': ObjectId('6854efdbf68e3871c36c4bd4')
+  }
+}
+test>
